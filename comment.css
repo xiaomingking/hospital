@@ -16,3 +16,22 @@ li{list-style-type:none;}
 .clearfix:after{display:block;visibility:hidden;clear:both;height:0;content:'.';font-size:0}
 .jianbian{background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#f4f4f4),color-stop(100%,#eee));background: -webkit-linear-gradient(top,#f4f4f4 0,#eee 100%);background: linear-gradient(to bottom,#f4f4f4 0,#eee 100%);}
 .bottomshadow{border-bottom: solid 1px #B3B3B3;-webkit-box-shadow: 0 1px 1px 0 #DFDFDF;box-shadow: 0 1px 1px 0 #DFDFDF;}
+div{
+    padding:18px;
+    font-size:14px;
+    color:#000;
+    line-height: 26px;
+}
+img{
+    width:340px;
+    height:142px;
+    padding:10px 0px 10px;
+}
+.indent{
+    display: block;
+    text-indent:2em;
+}
+.opa{
+    opacity:0;
+}
+
