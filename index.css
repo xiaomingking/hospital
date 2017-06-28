@@ -10,9 +10,9 @@ li{
     text-indent: 32px;
     letter-spacing:2px;
     line-height:20px;
-    border:1px solid #000;
+    text-decoration: underline;
     padding:10px;
 }
 a{
-    color:#000;
+    color:purple;
 }
