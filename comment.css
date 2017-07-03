@@ -25,7 +25,6 @@ div{
 img{
     width:340px;
     height:142px;
-    padding:10px 0px 10px;
 }
 .indent{
     display: block;
@@ -34,4 +33,7 @@ img{
 .opa{
     opacity:0;
 }
-
+body{
+    background:#fffcf0;
+    font-family:"微软雅黑","黑体","宋体";
+}
